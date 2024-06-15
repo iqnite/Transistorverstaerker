@@ -36,7 +36,7 @@
 
 **Altium-Projektordner:** [Transistorverstaerker](https://github.com/iqnite/Transistorverstaerker/tree/main/Transistorverstaerker)
 
-**OneNote-Notizbuch mit Berechnungen:** [Berechnungen](https://github.com/iqnite/Transistorverstaerker/tree/main/Berechnungen)
+**OneNote-Notizbuch mit Berechnungen:** [Berechnungen](https://github.com/iqnite/Transistorverstaerker/tree/sim/Berechnungen)
 
 > [!IMPORTANT]
 > Das Notizbuch ist nur im [Simulationsteil](https://github.com/iqnite/Transistorverstaerker/tree/sim) verfügbar.
