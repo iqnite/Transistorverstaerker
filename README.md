@@ -17,7 +17,7 @@
 
 **Finales Projekt:** [Herunterladen](https://github.com/iqnite/Transistorverstaerker/archive/refs/heads/main.zip)
 
-**Simulation:** [Herunterladen](https://github.com/iqnite/Transistorverstaerker/archive/refs/heads/sim.zip)
+**Simulation und Berechnungen:** [Herunterladen](https://github.com/iqnite/Transistorverstaerker/archive/refs/heads/sim.zip)
 
 
 ## Git
@@ -34,7 +34,7 @@
 
 # Struktur
 
-**Altium-Projektordner:** [Transistorverstaerker](https://github.com/iqnite/Transistorverstaerker/tree/main/Transistorverstaerker)
+**Altium-Projektordner:** [Transistorverstaerker](https://github.com/iqnite/Transistorverstaerker/tree/sim/Transistorverstaerker)
 
 **OneNote-Notizbuch mit Berechnungen:** [Berechnungen](https://github.com/iqnite/Transistorverstaerker/tree/sim/Berechnungen)
 
