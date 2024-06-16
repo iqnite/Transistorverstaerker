@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=OUT Pin=Rlast-2
+Added Component: Designator=Pl(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT Pin=Pl-1
+Added Pin To Net: NetName=NetPl_2 Pin=Pl-2
+Added Pin To Net: NetName=NetPl_2 Pin=Rlast-2
+Added Net: Name=NetPl_2
+Added Member To Class: ClassName=Transistorverstaerker Member=Component Pl Header 2
