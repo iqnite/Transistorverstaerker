@@ -1,9 +1,9 @@
 # TO DO
 
 - [ ] Berechnung
-  - [ ] Arbeitspunkt-Einstellung
-    - [ ] Welcher Ib soll verwendet werden (Datenblatt)?
-  - [ ] Stromverstärker (Basisschaltung)
+  - [x] Arbeitspunkt-Einstellung
+    - [x] Welcher Ib soll verwendet werden (Datenblatt)?
+  - [x] Stromverstärker (Basisschaltung)
   - [ ] AC-Berechnung (Ersatzschaltbild)
   - [ ] Kopplungskondensator (Böhmer?)
 - [ ] Simulation
