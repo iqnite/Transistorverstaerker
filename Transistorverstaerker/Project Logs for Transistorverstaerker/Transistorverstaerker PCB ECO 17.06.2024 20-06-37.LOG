@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=OUT Pin=Pl-1
+Removed Pin From Net: NetName=VCC Pin=Pv-1
+Removed Pin From Net: NetName=GND Pin=Pv-2
+Removed Member From Class: ClassName=Transistorverstaerker Member=Pl
+Removed Member From Class: ClassName=Transistorverstaerker Member=Pv
+Change Component Designator: OldDesignator=Pq NewDesignator=Pin
+Added Component: Designator=Pout(BNC_RA CON)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Pv1(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Pv2(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT Pin=Pout-1
+Added Pin To Net: NetName=GND Pin=Pout-2
+Added Pin To Net: NetName=GND Pin=Pout-2
+Added Pin To Net: NetName=GND Pin=Pout-2
+Added Pin To Net: NetName=VCC Pin=Pv1-1
+Added Pin To Net: NetName=GND Pin=Pv2-1
+Added Pin To Net: NetName=OUT Pin=Rlast-2
+Added Member To Class: ClassName=Transistorverstaerker Member=Component Pout BNC
+Added Member To Class: ClassName=Transistorverstaerker Member=Component Pv1 Plug
+Added Member To Class: ClassName=Transistorverstaerker Member=Component Pv2 Plug
