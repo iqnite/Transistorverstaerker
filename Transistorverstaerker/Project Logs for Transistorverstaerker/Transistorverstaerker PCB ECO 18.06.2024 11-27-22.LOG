@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=GND Pin=Rlast-1
+Change Component Comment : Designator=Rc Old Comment=1K New Comment=1.2K
+Change Component Comment : Designator=R2 Old Comment=1K New Comment=8.2K
+Change Component Comment : Designator=R3 Old Comment=1K New Comment=8.2K
+Change Component Comment : Designator=R4 Old Comment=1K New Comment=27K
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=47K
+Change Component Comment : Designator=Rlast Old Comment=1K New Comment=180
+Change Component Comment : Designator=Re Old Comment=1K New Comment=270
+Change Component Comment : Designator=C1 Old Comment=100nF New Comment=1uF
+Change Component Comment : Designator=C2 Old Comment=100nF New Comment=790nF
+Change Component Designator: OldDesignator=Rlast NewDesignator=Rlast1
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C_RM2-025X075"; UniqueID = "\BYHEZPHS" ("\BYHEZPHS")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C_RM2-025X075"; UniqueID = "\NZEEYHWY" ("\NZEEYHWY")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "790nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R_0207/RM4"; UniqueID = "\JMHDGRTK" ("\JMHDGRTK")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R_0207/RM4"; UniqueID = "\TBUFKPRJ" ("\TBUFKPRJ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "8.2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R_0207/RM4"; UniqueID = "\XBMIPJTK" ("\XBMIPJTK")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "8.2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R_0207/RM4"; UniqueID = "\QVQYJQJO" ("\QVQYJQJO")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "27K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rc" ("Rc"); Footprint = "R_0207/RM4"; UniqueID = "\PMRDCUEO" ("\PMRDCUEO")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Re" ("Re"); Footprint = "R_0207/RM4"; UniqueID = "\JUIQXFNX" ("\JUIQXFNX")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rlast" ("Rlast"); Footprint = "R_0207/RM4"; UniqueID = "\EIBJGZRQ" ("\EIBJGZRQ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=Rlast2(R_0207/RM4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Rlast2-1
+Added Pin To Net: NetName=NetRlast1_1 Pin=Rlast1-1
+Added Pin To Net: NetName=NetRlast1_1 Pin=Rlast2-2
+Added Net: Name=NetRlast1_1
+Added Member To Class: ClassName=Transistorverstaerker Member=Component Rlast2 180
