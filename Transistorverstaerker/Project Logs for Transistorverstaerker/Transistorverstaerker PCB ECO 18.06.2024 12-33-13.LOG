@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=OUT Pin=RL1-2
+Removed Pin From Net: NetName=OUT Pin=T2-3
+Change Component Comment : Designator=Ce Old Comment=100nF New Comment=39uF
+Change component parameters: Designator = "Ce" ("Ce"); Footprint = "C_RM2-025X075"; UniqueID = "\KDDQLTRB" ("\KDDQLTRB")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C_RM2-025X075)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT Pin=C3-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=RL1-2
+Added Pin To Net: NetName=NetC3_1 Pin=T2-3
+Added Net: Name=NetC3_1
+Added Member To Class: ClassName=Transistorverstaerker Member=Component C3 3uF
